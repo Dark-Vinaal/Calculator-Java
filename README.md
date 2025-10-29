@@ -74,6 +74,16 @@ This project is ideal for beginners learning **Java GUI (Swing)** or for anyone 
 
 ---
 
+## 🖼️ Sample Images
+
+![](https://github.com/Dark-Vinaal/Calculator-Java/blob/main/Assets/Calculator%20Java-Swing.png)
+
+---
+
+![](https://github.com/Dark-Vinaal/Calculator-Java/blob/main/Assets/Example.png)
+
+---
+
 ## 📘 License
 
 This project is licensed under the MIT License.
