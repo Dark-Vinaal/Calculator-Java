@@ -27,11 +27,11 @@ This project is ideal for beginners learning **Java GUI (Swing)** or for anyone 
 
 ## 🧩 Tech Stack Used
 
-> ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-> ![Swing](https://img.shields.io/badge/Swing-%23F89820.svg?style=for-the-badge&logo=java&logoColor=white)
-> ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-> ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-> ![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+> ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)  
+> ![Swing](https://img.shields.io/badge/Swing-%23F89820.svg?style=for-the-badge&logo=java&logoColor=white)  
+> ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)  
+> ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)  
+> ![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
 
 ---
 
@@ -60,16 +60,17 @@ This project is ideal for beginners learning **Java GUI (Swing)** or for anyone 
    ```
 
 ## 🎨 UI Preview
-
+```matlab
 ┌──────────────────────────────┐
-│           12345.6            │
+│          12345.6             │
 ├──────────────────────────────┤
-│  CL | DEL |  ^  |  ÷         │
-│   7 |  8  |  9  |  ×         │
-│   4 |  5  |  6  |  -         │
-│   1 |  2  |  3  |  +         │
-│   % |  0  |  .  |  =         │
+│  | CL | DEL |  ^  |  ÷  |    │
+│  | 7  |  8  |  9  |  ×  |    │
+│  | 4  |  5  |  6  |  -  |    │
+│  | 1  |  2  |  3  |  +  |    │
+│  | %  |  0  |  .  |  =  |    │
 └──────────────────────────────┘
+```
 
 ---
 
@@ -80,13 +81,15 @@ This project is licensed under the MIT License.
 ---
 
 ## 👨‍💻 Developed By  
-**Darkxzz (Vinaal)**  
 
-🚀 [GitHub Profile](https://github.com/Dark-Vinaal)  
-🔗 [LinkedIn](https://www.linkedin.com/in/vinaal/)  
-🌐 [Contact Me](https://linktr.ee/Darkxzz999)
+**Darkxzz (Vinaal)**  
+- 🚀 [GitHub Profile](https://github.com/Dark-Vinaal)  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/vinaal/)  
+- 🌐 [Contact Me](https://linktr.ee/Darkxzz999)
 
 ---
+
+>By the way thank you for visiting my repository (Calculator-Java) project built using Java Swing.
 
 >🌟 If you like this project, don’t forget to give it a ⭐ on GitHub!
 
